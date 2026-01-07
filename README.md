@@ -11,8 +11,9 @@
     <a>Yuefeng Du*</a>;
 </div>
 
-# DyGLW-Net
-This project is a paper called "DyGLW-Net: Dynamic Global-guided Local Window Network for Agricultural Image Segmentation" submitted to KBS in 2026
+<h3><strong>submitted to Knowledge-Based Systems in 2026
+
+</div>
 
 ## 🏠 TODOs
 * [x] DyGLW-Net model.
