@@ -1,6 +1,26 @@
+<div align="center">
+
+<h1>DyGLW-Net: Dynamic Global-guided Local Window Network for Agricultural Image Segmentation</h1> 
+
+<div>
+    <a>Yucong Wang</a>;
+    <a>Guorun Li</a>;
+    <a>Wang Liu</a>;
+    <a>Liu Lei</a>;
+    <a>Xiaoyu Li</a>;
+    <a>Yuefeng Du*</a>;
+</div>
+
 # DyGLW-Net
 This project is a paper called "DyGLW-Net: Dynamic Global-guided Local Window Network for Agricultural Image Segmentation" submitted to KBS in 2026
 
+## 🏠 TODOs
+* [x] DyGLW-Net model.
+
+## 🏠 Overview
+![1](figures/3.jpg)
+![2](figures/1.jpg)
+![3](figures/2.jpg)
 
 ## Important Note (Training)
 
