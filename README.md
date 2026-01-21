@@ -11,7 +11,7 @@
     <a>Yuefeng Du*</a>;
 </div>
 
-<h3><strong>submitted to Knowledge-Based Systems in 2026
+<h3><strong>submitted to ESWA in 2026
 
 </div>
 
